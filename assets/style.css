@@ -21,13 +21,15 @@ textarea {
   border-bottom: 10px solid black;
 }
 
+
 .description {
   white-space: pre-wrap;
 }
 
 .time-block {
   text-align: center;
-  border-radius: 15px;
+  padding: 30px 0;
+  border-radius: 15px 0px 0px 15px;
 }
 
 .row {
